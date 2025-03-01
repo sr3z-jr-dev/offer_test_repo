@@ -1,0 +1,25 @@
+[
+    {
+        "id": 49,
+        "offerwall": 1,
+        "title": "TANDO_2",
+        "money": "1 000 - 30 000 Kč",
+        "img": "https://conf.leadsor.com/cz/img/tando_logo.svg",
+        "image_upload": null,
+        "link": "https://track.sjednatpujcku.cz/click/20",
+        "term": "5 - 30 dni",
+        "nocharge": "Ne",
+        "age": 18,
+        "is_banner": false,
+        "background": {},
+        "enabled": true,
+        "created": "2025-03-01 15:00:54",
+        "my_order": 1,
+        "json_order": 1,
+        "campaign": [],
+        "tag": [],
+        "campaigns": [],
+        "tags": [],
+        "modified": "2025-03-01 15:10:36"
+    }
+]
