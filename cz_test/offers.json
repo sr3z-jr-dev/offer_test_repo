@@ -18,20 +18,6 @@
             "campaignId": 1
         },
         {
-            "id": 49,
-            "title": "TANDO_2",
-            "money": "1 000 - 30 000 Kč",
-            "img": "https://conf.leadsor.com/cz/img/tando_logo.svg",
-            "link": "https://track.sjednatpujcku.cz/click/20",
-            "term": "5 - 30 dni",
-            "is_banner": false,
-            "background": {},
-            "json_order": 1,
-            "tagId": [],
-            "puZa": "Ne",
-            "minVek": 18
-        },
-        {
             "id": 2,
             "title": "PůjčkabezVolani",
             "money": "1 000 - 15 000 Kč",
