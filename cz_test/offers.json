@@ -1,13 +1,29 @@
 {
     "data": [
         {
+            "id": 1,
+            "title": "TANDO",
+            "money": "1 000 - 30 000 Kč",
+            "img": "https://conf.leadsor.com/cz/img/tando_logo.svg",
+            "link": "https://track.sjednatpujcku.cz/click/20",
+            "term": "5 - 30 dni",
+            "json_order": 1,
+            "tagId": [
+                2
+            ],
+            "puZa": "Ne",
+            "minVek": "19",
+            "isBanner": false,
+            "campaignId": 1
+        },
+        {
             "id": 7,
             "title": "Ferratum",
             "money": "2 500 - 80 000 Kč",
             "img": "https://conf.leadsor.com/cz/img/ferratum.svg",
             "link": "https://track.sjednatpujcku.cz/click/3",
             "term": "30 dní – 120 měsíců",
-            "json_order": 1,
+            "json_order": 2,
             "tagId": [
                 19
             ],
@@ -23,7 +39,7 @@
             "img": "https://conf.leadsor.com/cz/img/creditportal.svg",
             "link": "https://track.sjednatpujcku.cz/click/17",
             "term": "30 dní – 12 měsíců",
-            "json_order": 2,
+            "json_order": 3,
             "tagId": [
                 5
             ],
@@ -39,7 +55,7 @@
             "img": "https://conf.leadsor.com/cz/img/zaplo.svg",
             "link": "https://track.sjednatpujcku.cz/click/19",
             "term": "7 - 30 dní",
-            "json_order": 3,
+            "json_order": 4,
             "tagId": [
                 1
             ],
@@ -47,22 +63,6 @@
             "minVek": "18",
             "isBanner": false,
             "campaignId": 8
-        },
-        {
-            "id": 1,
-            "title": "TANDO",
-            "money": "1 000 - 30 000 Kč",
-            "img": "https://conf.leadsor.com/cz/img/tando_logo.svg",
-            "link": "https://track.sjednatpujcku.cz/click/20",
-            "term": "5 - 30 dni",
-            "json_order": 4,
-            "tagId": [
-                2
-            ],
-            "puZa": "Ne",
-            "minVek": "19",
-            "isBanner": false,
-            "campaignId": 1
         },
         {
             "id": 3,
