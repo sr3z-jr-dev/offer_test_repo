@@ -213,7 +213,7 @@
             ],
             "puZa": "Ano",
             "minVek": "18",
-            "isBanner": false,
+            "isBanner": true,
             "campaignId": 6
         },
         {
