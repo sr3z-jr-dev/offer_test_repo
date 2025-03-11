@@ -1,0 +1,506 @@
+{
+    "data": [
+        {
+            "id": 25,
+            "title": "MobileZaim",
+            "money": "До 500 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/mobilezaim.svg",
+            "link": "https://track.finero.kz/click/25",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 25,
+            "tagId": [
+                49
+            ],
+            "isBanner": false,
+            "campaignId": 13
+        },
+        {
+            "id": 27,
+            "title": "SelfieCredit",
+            "money": "До 165 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/selfiecredit.svg",
+            "link": "https://track.finero.kz/click/18",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 27,
+            "tagId": [
+                47
+            ],
+            "isBanner": false,
+            "campaignId": 14
+        },
+        {
+            "id": 28,
+            "title": "MoneyPlus",
+            "money": "До 170 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/moneyplus.svg",
+            "link": "https://track.finero.kz/click/26",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 28,
+            "tagId": [
+                48
+            ],
+            "isBanner": false,
+            "campaignId": 15
+        },
+        {
+            "id": 29,
+            "title": "Onecredit",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/onecredit.svg",
+            "link": "https://track.finero.kz/click/2",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 29,
+            "tagId": [
+                28
+            ],
+            "isBanner": false,
+            "campaignId": 15
+        },
+        {
+            "id": 30,
+            "title": "Acredit",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/acredit.svg",
+            "link": "https://track.finero.kz/click/1",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 30,
+            "tagId": [
+                27
+            ],
+            "isBanner": false,
+            "campaignId": 16
+        },
+        {
+            "id": 31,
+            "title": "NeoCredit",
+            "money": "До 176 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/neocredit_kz.svg",
+            "link": "https://track.finero.kz/click/13",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 31,
+            "tagId": [
+                31
+            ],
+            "isBanner": false,
+            "campaignId": 5
+        },
+        {
+            "id": 35,
+            "title": "BeeCredit",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/beecredit.svg",
+            "link": "https://track.finero.kz/click/29",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 35,
+            "tagId": [
+                33
+            ],
+            "isBanner": false,
+            "campaignId": 18
+        },
+        {
+            "id": 36,
+            "title": "Kviku",
+            "money": "До 170 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/kviku_kz.svg",
+            "link": "https://track.finero.kz/click/30",
+            "term": null,
+            "nocharge": null,
+            "age": null,
+            "json_order": 36,
+            "tagId": [
+                45
+            ],
+            "isBanner": true,
+            "campaignId": 17
+        },
+        {
+            "id": 37,
+            "title": "Turbomoney",
+            "money": "До 136 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/turbomoney.svg",
+            "link": "https://track.finero.kz/click/8",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 37,
+            "tagId": [
+                33
+            ],
+            "isBanner": false,
+            "campaignId": 10
+        },
+        {
+            "id": 38,
+            "title": "Findom",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/findom.svg",
+            "link": "https://track.finero.kz/click/27",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 38,
+            "tagId": [
+                51
+            ],
+            "isBanner": false,
+            "campaignId": 19
+        },
+        {
+            "id": 39,
+            "title": "Vivus",
+            "money": "До 172 500 ₸",
+            "img": "https://conf.leadsor.com/kz/img/vivus.svg",
+            "link": "https://track.finero.kz/click/9",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 39,
+            "tagId": [
+                34
+            ],
+            "isBanner": false,
+            "campaignId": 13
+        },
+        {
+            "id": 40,
+            "title": "Dengiclick",
+            "money": "До 500 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/dengiclick.svg",
+            "link": "https://track.finero.kz/click/5",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 40,
+            "tagId": [
+                25
+            ],
+            "isBanner": false,
+            "campaignId": 12
+        },
+        {
+            "id": 41,
+            "title": "Ccloan",
+            "money": "До 200 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/ccloan.svg",
+            "link": "https://track.finero.kz/click/12",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 41,
+            "tagId": [
+                37
+            ],
+            "isBanner": false,
+            "campaignId": 11
+        },
+        {
+            "id": 42,
+            "title": "CreditPlus",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/creditPlus.svg",
+            "link": "https://track.finero.kz/click/4",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 42,
+            "tagId": [
+                30
+            ],
+            "isBanner": false,
+            "campaignId": 1
+        },
+        {
+            "id": 43,
+            "title": "Tengebai",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/tengebai_kz.svg",
+            "link": "https://track.finero.kz/click/17",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 43,
+            "tagId": [
+                39
+            ],
+            "isBanner": false,
+            "campaignId": 7
+        },
+        {
+            "id": 44,
+            "title": "MoneyMan",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/moneyman.svg",
+            "link": "https://track.finero.kz/click/7",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 44,
+            "tagId": [
+                32
+            ],
+            "isBanner": false,
+            "campaignId": 3
+        },
+        {
+            "id": 45,
+            "title": "Credit365",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/credit365.svg",
+            "link": "https://track.finero.kz/click/3",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 45,
+            "tagId": [
+                29
+            ],
+            "isBanner": false,
+            "campaignId": 8
+        },
+        {
+            "id": 46,
+            "title": "Qanat",
+            "money": "До 136 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/qanat.svg",
+            "link": "https://track.finero.kz/click/10",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 46,
+            "tagId": [
+                35
+            ],
+            "isBanner": false,
+            "campaignId": 6
+        },
+        {
+            "id": 47,
+            "title": "Creditbar",
+            "money": "До 300 000 ₸",
+            "img": "https://conf.leadsor.com/kz/img/creditbar.svg",
+            "link": "https://track.finero.kz/click/6",
+            "term": "",
+            "nocharge": null,
+            "age": null,
+            "json_order": 47,
+            "tagId": [
+                46
+            ],
+            "isBanner": false,
+            "campaignId": 17
+        }
+    ],
+    "tags": [
+        {
+            "id": 31,
+            "country_id": "KZ",
+            "name": "0% первые 7 дней"
+        },
+        {
+            "id": 34,
+            "country_id": "KZ",
+            "name": "100% онлайн подача заявки"
+        },
+        {
+            "id": 41,
+            "country_id": "KZ",
+            "name": "3 способа получения денег"
+        },
+        {
+            "id": 40,
+            "country_id": "KZ",
+            "name": "Selfie вместо анкеты"
+        },
+        {
+            "id": 50,
+            "country_id": "KZ",
+            "name": "Акция «ЗИМА ПРИШЛА»"
+        },
+        {
+            "id": 49,
+            "country_id": "KZ",
+            "name": "Бесплатный займ"
+        },
+        {
+            "id": 22,
+            "country_id": "KZ",
+            "name": "Быстрый микрокредит на карту"
+        },
+        {
+            "id": 47,
+            "country_id": "KZ",
+            "name": "Всегда 0% первые 7 дней"
+        },
+        {
+            "id": 48,
+            "country_id": "KZ",
+            "name": "Главный приз iPhone"
+        },
+        {
+            "id": 43,
+            "country_id": "KZ",
+            "name": "до 200 000 ₸ при повторных обращениях"
+        },
+        {
+            "id": 33,
+            "country_id": "KZ",
+            "name": "За 15 минут на карту"
+        },
+        {
+            "id": 23,
+            "country_id": "KZ",
+            "name": "Кредит без залога онлайн"
+        },
+        {
+            "id": 44,
+            "country_id": "KZ",
+            "name": "Моментально на цифровую карту"
+        },
+        {
+            "id": 25,
+            "country_id": "KZ",
+            "name": "Низкий %"
+        },
+        {
+            "id": 51,
+            "country_id": "KZ",
+            "name": "Новинка!"
+        },
+        {
+            "id": 30,
+            "country_id": "KZ",
+            "name": "Онлайн за 15 минут"
+        },
+        {
+            "id": 37,
+            "country_id": "KZ",
+            "name": "от 0,99%"
+        },
+        {
+            "id": 52,
+            "country_id": "KZ",
+            "name": "от 100 000 ₸"
+        },
+        {
+            "id": 24,
+            "country_id": "KZ",
+            "name": "первый заём под 0,01%"
+        },
+        {
+            "id": 38,
+            "country_id": "KZ",
+            "name": "Под залог авто"
+        },
+        {
+            "id": 42,
+            "country_id": "KZ",
+            "name": "Промокоды и акции"
+        },
+        {
+            "id": 46,
+            "country_id": "KZ",
+            "name": "Просто, как раз-два-три"
+        },
+        {
+            "id": 35,
+            "country_id": "KZ",
+            "name": "Рассмотрение заявки от 7 мин."
+        },
+        {
+            "id": 45,
+            "country_id": "KZ",
+            "name": "Решение за 2 минуты"
+        },
+        {
+            "id": 28,
+            "country_id": "KZ",
+            "name": "Розгрыш путевки"
+        },
+        {
+            "id": 36,
+            "country_id": "KZ",
+            "name": "Розгрыш путевки и iPhone"
+        },
+        {
+            "id": 32,
+            "country_id": "KZ",
+            "name": "Розыгрыш 1 миллиона"
+        },
+        {
+            "id": 29,
+            "country_id": "KZ",
+            "name": "Розыгрыш путевки на Мальдивы"
+        },
+        {
+            "id": 27,
+            "country_id": "KZ",
+            "name": "Розыгрыш техники Apple"
+        },
+        {
+            "id": 39,
+            "country_id": "KZ",
+            "name": "С любой кредитной историей"
+        }
+    ],
+    "settings": {
+        "rangeMoney": {
+            "title": "Сумма",
+            "currency": "₸"
+        },
+        "linkText": "Получить деньги",
+        "cookieExpiresDays": 30,
+        "title": "Микрокредиты онлайн",
+        "subtitle": "Максимальный шанс на одобрение микрокредита при обращении в несколько компаний.",
+        "logo": "https://conf.leadsor.com/kz/img/logo.png",
+        "description": {
+            "v1": "Первый бесплатно. До 15 минут.",
+            "v2": "Первый бесплатно. До 15 минут.",
+            "v3": "Первый бесплатно. До 15 минут."
+        },
+        "additionalInfo": {
+            "v1": {
+                "btn": "кредитов сегодня",
+                "title": "новое!"
+            }
+        },
+        "variants": {
+            "v1": {
+                "best": {
+                    "title1": "Последняя",
+                    "title2": "минута",
+                    "title3": "предложения"
+                }
+            },
+            "v2": {
+                "best": {
+                    "title1": "Пять звезд"
+                }
+            },
+            "v3": {
+                "cards": {
+                    "title1": "ЭТИ КОМПАНИИ",
+                    "title2": "ДАДУТ ВАМ КРЕДИТ"
+                },
+                "best": {
+                    "title1": "Популярные",
+                    "title2": "предложения"
+                }
+            }
+        }
+    }
+}
