@@ -6,14 +6,14 @@
             "money": "До 500 000 ₸",
             "img": "https://conf.leadsor.com/kz/img/mobilezaim.svg",
             "link": "https://track.finero.kz/click/25",
-            "term": "",
+            "term": null,
             "nocharge": null,
             "age": null,
             "json_order": 25,
             "tagId": [
                 49
             ],
-            "isBanner": false,
+            "isBanner": true,
             "campaignId": 13
         },
         {
