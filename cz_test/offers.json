@@ -329,7 +329,7 @@
             ],
             "puZa": "Ne",
             "minVek": "18",
-            "isBanner": false,
+            "isBanner": null,
             "campaignId": 9
         },
         {
